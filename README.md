@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/devpelux/xmountains" title="X-Mountains">
-    <img width="90px" align="center" alt="X-Mountains" src="https://raw.githubusercontent.com/devpelux/xmountains/21w37a/assets/igoat.png"></img>
+    <img width="90px" align="center" alt="X-Mountains" src="https://raw.githubusercontent.com/devpelux/xmountains/21w38a/assets/igoat.png"></img>
   </a>
 </p>
 <h2 align="center">X-Mountains</h2>
@@ -36,14 +36,14 @@ To make things easier, avoiding terraforming before building, the actual world g
 This is a good solution, but, for a bunch of blocks, there is an evident side effect: mountains higher that 256 are cutted off (like with a katana!) generating a flat unnatural area.  
 This is even more noticeable in a mountain range, in which all mountains are cutted at the same height, resulting in this:  
 
-<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w37a/assets/mountain1.jpg"/>
+<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w38a/assets/mountain1.jpg"/>
 
 Anyway, even without this limit, mountains rarely go beyond 290+ height, and there is still enough space to build (maybe not that 50-blocks height tower...).  
 After removing the top limit you can see the real majesty of this beautiful new mountain generation!  
 
 You will find more higher mountains without that unnatural flat area on top! Only peaks!  
 
-<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w37a/assets/xmountain1.jpg"/>
+<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w38a/assets/xmountain1.jpg"/>
 
 This is perfect for those who like to explore and climb higher and higher mountains and say wow... look that landscape!  Without necessarily building towers above them!  
 And, if you still want to build that tower, you can simply break that cliff with a pickaxe ⛏ (and grab his materials)... it's always Minecraft!! 🙂
@@ -75,21 +75,21 @@ Click done, create the world, and enjoy!
 
 Before
 
-<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w37a/assets/mountain2.jpg"/>
+<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w38a/assets/mountain2.jpg"/>
 
 After
 
-<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w37a/assets/xmountain2.jpg"/>
+<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w38a/assets/xmountain2.jpg"/>
 
 ### Example 2
 
 Before
 
-<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w37a/assets/mountain3.jpg"/>
+<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w38a/assets/mountain3.jpg"/>
 
 After
 
-<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w37a/assets/xmountain3.jpg"/>
+<img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w38a/assets/xmountain3.jpg"/>
 
 
 
