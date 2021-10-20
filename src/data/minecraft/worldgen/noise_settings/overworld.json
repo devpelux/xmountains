@@ -167,7 +167,7 @@
                         ]
                       },
                       "min_threshold": 0.0,
-                      "max_threshold": 2147483647,
+                      "max_threshold": 1.7976931348623157E308,
                       "type": "minecraft:noise_threshold"
                     },
                     "then_run": {
@@ -849,7 +849,7 @@
                               ]
                             },
                             "min_threshold": 0.12121212121212122,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -921,7 +921,7 @@
                               ]
                             },
                             "min_threshold": 0.21212121212121213,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -945,7 +945,7 @@
                               ]
                             },
                             "min_threshold": -0.06060606060606061,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -983,7 +983,7 @@
                               ]
                             },
                             "min_threshold": 0.24242424242424243,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -1007,7 +1007,7 @@
                               ]
                             },
                             "min_threshold": 0.12121212121212122,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -1031,7 +1031,7 @@
                               ]
                             },
                             "min_threshold": -0.12121212121212122,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -1079,7 +1079,7 @@
                               ]
                             },
                             "min_threshold": 0.21212121212121213,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -1103,7 +1103,7 @@
                               ]
                             },
                             "min_threshold": -0.11515151515151514,
-                            "max_threshold": 2147483647,
+                            "max_threshold": 1.7976931348623157E308,
                             "type": "minecraft:noise_threshold"
                           },
                           "then_run": {
@@ -1555,7 +1555,7 @@
                           ]
                         },
                         "min_threshold": 0.12121212121212122,
-                        "max_threshold": 2147483647,
+                        "max_threshold": 1.7976931348623157E308,
                         "type": "minecraft:noise_threshold"
                       },
                       "then_run": {
@@ -1625,7 +1625,7 @@
                       ]
                     },
                     "min_threshold": 0.21212121212121213,
-                    "max_threshold": 2147483647,
+                    "max_threshold": 1.7976931348623157E308,
                     "type": "minecraft:noise_threshold"
                   },
                   "then_run": {
@@ -1660,7 +1660,7 @@
                           ]
                         },
                         "min_threshold": 0.24242424242424243,
-                        "max_threshold": 2147483647,
+                        "max_threshold": 1.7976931348623157E308,
                         "type": "minecraft:noise_threshold"
                       },
                       "then_run": {
@@ -1684,7 +1684,7 @@
                           ]
                         },
                         "min_threshold": 0.12121212121212122,
-                        "max_threshold": 2147483647,
+                        "max_threshold": 1.7976931348623157E308,
                         "type": "minecraft:noise_threshold"
                       },
                       "then_run": {
@@ -1708,7 +1708,7 @@
                           ]
                         },
                         "min_threshold": -0.12121212121212122,
-                        "max_threshold": 2147483647,
+                        "max_threshold": 1.7976931348623157E308,
                         "type": "minecraft:noise_threshold"
                       },
                       "then_run": {
