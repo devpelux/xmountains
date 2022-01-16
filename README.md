@@ -45,10 +45,6 @@ You will find more higher mountains without that unnatural flat area on top! Onl
 
 <img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w40a/assets/xmountain1.jpg"/>
 
-This is perfect for those who like to explore and climb higher and higher mountains and say wow... look that landscape!  Without necessarily building towers above them!  
-And, if you still want to build that tower, you can simply break that cliff with a pickaxe ⛏ (and grab his materials)... it's always Minecraft!! 🙂
-
-
 ## How to install
 
 ### Step 1
@@ -68,38 +64,30 @@ Drag and drop the downloaded zip file to that window, then activate the datapack
 ### Step 5
 Click done, create the world, and enjoy!
 
-
 ## Other examples
 
 ### Example 1
 
-Before
+Vanilla
 
 <img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w40a/assets/mountain2.jpg"/>
 
-After
+X-Mountains
 
 <img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w40a/assets/xmountain2.jpg"/>
 
 ### Example 2
 
-Before
+Vanilla
 
 <img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w40a/assets/mountain3.jpg"/>
 
-After
+X-Mountains
 
 <img height="300px" src="https://raw.githubusercontent.com/devpelux/xmountains/21w40a/assets/xmountain3.jpg"/>
 
-
-
-<br><br>
 ### License
-Copyright (C) 2021 devpelux (Salvatore Peluso)  
+Copyright (C) 2021-2022 devpelux (Salvatore Peluso | salvostormy)  
 Licensed under MIT license.   
 
-[![mit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/64px-MIT_logo.svg.png)][license]
-
-
-
-[license]: https://github.com/devpelux/xmountains/blob/main/LICENSE "Licensed under MIT license"
+[![mit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/64px-MIT_logo.svg.png)](https://github.com/devpelux/xmountains/blob/main/LICENSE)
