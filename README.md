@@ -6,7 +6,7 @@
   </a>
 </p>
 <h2 align="center">X-Mountains</h2>
-<p align="center">"Extreme Mountains" datapack for Minecraft 1.18+ (Caves & Cliffs)</p>
+<p align="center">"Extreme Mountains" datapack for Minecraft.</p>
 
 <!-- badges -->
 
